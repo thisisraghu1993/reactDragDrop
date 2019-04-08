@@ -1,10 +1,10 @@
-#Needs
+# Needs
 	1.Node
 	2.NPM 
 
 A Simple Drag and Drop Web Application Created Using React and localstorage
 
-#Functionalities
+# Functionalities
 	1.Create List
 	2.Edit List(Rename title)
 	3.Delete List
@@ -16,5 +16,5 @@ A Simple Drag and Drop Web Application Created Using React and localstorage
 	9.Add Comments For Cards
 
 
-#Note:
+# Note:
   1.Comments are addable only at the time of editing card(after adding the card)
